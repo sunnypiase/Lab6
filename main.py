@@ -7,7 +7,6 @@ if __name__ == '__main__':
         manager.setup_db()
         manager.clear_data()
 
-        # These would be defined somewhere with the actual data
         books_data = [
             ('Madeline Diaz', 'Actually worry above guess', 'artistic', 2016, 163, 89.73, 'periodical', 5, 22),
             ('William Luna', 'Hope world glass', 'economic', 2004, 992, 159.97, 'book', 2, 49),
